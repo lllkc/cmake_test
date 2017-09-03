@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/linlei/workspace/cmaketest/t4/src/main.c
+/home/linlei/share/cmaketest/t4/src/main.c
 hello.h
 -
 

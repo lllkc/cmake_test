@@ -1,5 +1,5 @@
-/home/linlei/workspace/cmaketest/t4/build/CMakeFiles/rebuild_cache.dir
-/home/linlei/workspace/cmaketest/t4/build/CMakeFiles/edit_cache.dir
-/home/linlei/workspace/cmaketest/t4/build/src/CMakeFiles/rebuild_cache.dir
-/home/linlei/workspace/cmaketest/t4/build/src/CMakeFiles/edit_cache.dir
-/home/linlei/workspace/cmaketest/t4/build/src/CMakeFiles/main.dir
+/home/linlei/share/cmaketest/t4/build/CMakeFiles/rebuild_cache.dir
+/home/linlei/share/cmaketest/t4/build/CMakeFiles/edit_cache.dir
+/home/linlei/share/cmaketest/t4/build/src/CMakeFiles/rebuild_cache.dir
+/home/linlei/share/cmaketest/t4/build/src/CMakeFiles/edit_cache.dir
+/home/linlei/share/cmaketest/t4/build/src/CMakeFiles/main.dir

@@ -1,4 +1,4 @@
-# Install script for directory: /home/linlei/workspace/cmaketest/t4/src
+# Install script for directory: /home/linlei/share/cmaketest/t4/src
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
